@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://pockr.launchpad.cfapps.ap12.hana.ondemand.com/lcapincidentapp07.incidentapp07Launchpad-1.0.0/",
+  "DeployedUTCTime": "2024-11-08T10:19:23.229Z",
+  "ApplicationLogURL": "https://logs.cf.ap12.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:incidentapp07-srv)))))"
+}

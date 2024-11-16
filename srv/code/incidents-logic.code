@@ -1,0 +1,12 @@
+{
+    "version": "2.0",
+    "codes": [],
+    "configuration": {
+        "phase": "on",
+        "events": [
+            "CREATE"
+        ],
+        "entity": "incidentapp07Srv.Incidents"
+    },
+    "hash": "3a1c5b01ea17b8a5409fcc4bf427d85e3054bb63a3cda6d048b8716dfacc33e49b14e11bdbc66943a11a366bf285f0f690a5e9071c10425063fcefcdc73e6343"
+}

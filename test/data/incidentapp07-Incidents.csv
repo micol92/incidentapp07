@@ -1,0 +1,6 @@
+ID;title;urgency;status;customerEmail;customer_ID;createdAt;createdBy;modifiedAt;modifiedBy
+831e93df-78d6-4aef-906f-63229e946ab6;Network Outage;High;new;john.doe@example.com;831e93df-78d6-4aef-906f-63229e946ab6;2021-06-27T14:52:23Z;Alice;2021-06-27T14:52:23Z;Alice
+c09a057b-ab22-45d5-a17e-e7e11a7412ad;Software Bug;Medium;in progress;jane.smith@example.com;c09a057b-ab22-45d5-a17e-e7e11a7412ad;2021-06-28T09:15:45Z;Bob;2021-06-28T09:15:45Z;Bob
+e83e174e-615f-47e4-975b-14788dc0e6c4;Hardware Failure;Critical;closed;emily.johnson@example.com;e83e174e-615f-47e4-975b-14788dc0e6c4;2021-06-29T11:30:12Z;Charlie;2021-06-30T15:45:00Z;Charlie
+453ac4b0-aec7-480f-acbf-50365e9dfa7d;User Access Issue;Low;new;michael.brown@example.com;453ac4b0-aec7-480f-acbf-50365e9dfa7d;2021-06-30T15:45:00Z;David;2021-06-30T15:45:00Z;David
+ee6626c9-5b34-4e57-8cfd-bb3f2de03d63;Database Error;High;in progress;sarah.davis@example.com;ee6626c9-5b34-4e57-8cfd-bb3f2de03d63;2021-07-01T08:00:00Z;Eve;2021-07-01T08:00:00Z;Eve

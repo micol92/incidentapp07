@@ -1,0 +1,6 @@
+ID;timestamp;author_BusinessPartner;message;incident_ID
+831e93df-78d6-4aef-906f-63229e946ab6;2021-06-27T14:52:23Z;Alice Smith;Initial report of the issue;831e93df-78d6-4aef-906f-63229e946ab6
+c09a057b-ab22-45d5-a17e-e7e11a7412ad;2021-06-28T09:15:45Z;Bob Johnson;Following up on the incident;831e93df-78d6-4aef-906f-63229e946ab6
+e83e174e-615f-47e4-975b-14788dc0e6c4;2021-06-29T11:30:12Z;Charlie Brown;Need more details regarding the issue;c09a057b-ab22-45d5-a17e-e7e11a7412ad
+453ac4b0-aec7-480f-acbf-50365e9dfa7d;2021-06-30T15:45:00Z;David Wilson;Issue is still unresolved;c09a057b-ab22-45d5-a17e-e7e11a7412ad
+ee6626c9-5b34-4e57-8cfd-bb3f2de03d63;2021-07-01T08:00:00Z;Eve Davis;Closing the incident now;e83e174e-615f-47e4-975b-14788dc0e6c4
